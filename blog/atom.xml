@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nyu-robot-learning.github.io/robot-intel-class-fl23/blog</id>
-    <title>Robot Intelligence Blog</title>
+    <title>Introduction to Robot Intelligence Blog</title>
     <updated>2021-01-06T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nyu-robot-learning.github.io/robot-intel-class-fl23/blog"/>
-    <subtitle>Robot Intelligence Blog</subtitle>
+    <subtitle>Introduction to Robot Intelligence Blog</subtitle>
     <icon>https://nyu-robot-learning.github.io/robot-intel-class-fl23/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Homework 0]]></title>
