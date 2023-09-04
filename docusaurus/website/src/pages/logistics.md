@@ -9,33 +9,30 @@ title: Logistics
 ## Logistical Overview
 
 ### Lecture
-* 3.30pm-4.45pm on Mondays and Wednesdays at 60FA C15.
+* 3.30pm-4.45pm on Tuesdays and Thursdays at 60FA C15.
 * Lectures will be held twice a week in person. 
 * The google calendar may be accessed [here](https://calendar.google.com/calendar/u/0?cid=Y185dTVwNDVmaDV2MHBxaW92NGRmNXZ1bmhoNEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t). (Access w/ NYU email.)
 * The class will be recorded, we will post the link to the recorded lectures to the class campuswire.
 
 ### Course Staff & Office Hours
 * Instructor: [Lerrel Pinto](https://www.lerrelpinto.com/)
-* Office Hours:  Wed 5-6pm
-* Teaching Assistants: Ben Evans & Sneha Silwal
-* Office Hours: Mon 5:00-6:00, Thurs 3:00-4:30pm
-* Office Hours Location: 60 Fifth Ave, Room 540 AND Google Meet (see calendar)
+  * Office Hours:  Wed 5-6pm
+
+* Teaching Assistants:  
+  * Aadhithya Iyer
+    * Office Hours: Friday 2:00-3:00pm, @ 60 Fifth Ave, Room 505
+
+  * Venkatesh Pattabiraman
+    * Office Hours: Thursday 3:00-4:30pm, @ 60 Fifth Ave, Fifth floor
+
 
 ### Grading
-1. Homeworks (45%)
-2. Final Project (45%)
+1. Homeworks and projects (90%)
 3. Discussions, both in class and in campuswire (10%)
 
 
 ### Assignments
-* Assignments will use Python 3; we will provide you a virtual environment to install all dependencies.
-* We strongly recommended using Python for the project as well.
-
-
-### Final Project
-* Project proposals (1 page) will be due a week before midterms.
-* Maximum (and recommended) team size is 4.
-* Final presentations of all projects will take place a week before finals.
+* Assignments will use Python 3 and RaspberryPI 4; we will provide you a virtual environment to install all dependencies.
 
 
 ## Remarks

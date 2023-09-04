@@ -6,14 +6,14 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Robot Intelligence',
+  title: 'Introduction to Robot Intelligence',
   tagline: 'Fall 2023',
   url: 'https://nyu-robot-learning.github.io/',
-  baseUrl: '/robot-intel-class-fl23/',
+  baseUrl: '/home/aadhithya/robot-intel-class-fl23/docusaurus/website/build/index.html/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'new-york-university', // Usually your GitHub org/user name.
+  organizationName: 'nyu-robot-learning', // Usually your GitHub org/user name.
   projectName: 'robot-intel-class-fl23', // Usually your repo name.
 
   presets: [
@@ -46,7 +46,7 @@ const config = {
         title: 'Robot Intelligence',
         logo: {
           alt: 'Site Logo',
-          src: 'img/viam_rover.jpg',
+          src: 'img/NYU.png',
         },
        
         items: [

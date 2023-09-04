@@ -6,7 +6,7 @@ import styles from './HomepageFeatures.module.css';
 
 const GifList = [
   {
-    img_filename: './img/car.gif',
+    img_filename: './img/atlas.gif',
   }
 ];
 

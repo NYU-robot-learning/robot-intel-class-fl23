@@ -9,13 +9,13 @@ const FeatureList = [
     description: ('Instructor'),
   },
   {
-    title: 'Ben Evans',
-    image_path: './img/ben.png',
+    title: <a href="https://aadhithya14.github.io/">Aadhithya Iyer </a>,
+    image_path: './img/aadhithya.jpeg',
     description: ('Teaching Assistant'),
   },
   {
-    title: (<a href="http://www.ssilwal.com/"> Sneha Silwal </a>),
-    image_path: './img/sneha.png',
+    title: (<a href="https://www.linkedin.com/in/venkatesh-pattabiraman/"> Venkatesh Pattabiraman </a>),
+    image_path: './img/venky.jpeg',
     description: ('Teaching Assistant'),
   },
 ];
