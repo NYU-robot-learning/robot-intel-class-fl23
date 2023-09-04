@@ -12,6 +12,7 @@ Homework 1
 
 Theory Questions
 [download as .pdf](https://nyu-robot-learning.github.io/robot-intel-class-fl23/assets/files/hw1_theory-69e639924c3c002cadfb5676bb7a3fbe.pdf)
+
 Coding Questions
 [download as .ipynb](https://nyu-robot-learning.github.io/robot-intel-class-fl23/assets/files/hw1_coding-f12a4782e2a8f894d5beeca369cfd0d1.ipynb)
 [open with Google Colab](https://colab.research.google.com/drive/1uDhvLfXpki161_W-4JZ5v_QphJpy5rQk)
