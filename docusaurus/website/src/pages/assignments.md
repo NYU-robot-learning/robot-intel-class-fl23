@@ -5,60 +5,21 @@ title: Assignments
 # Homework 0 - Preliminaries for the class.
 
 LaTeX Template
-[open in Overleaf][https://www.overleaf.com/project/63c188b88f14ca3cb3269719]
-[download source code as .zip][https://nyu-robot-learning.github.io/robot-intel-class-fl23/assets/files/latex_template_source-0e7df31543ff046158d81b12f470b4f8.zip]
+[open in Overleaf](https://www.overleaf.com/project/63c188b88f14ca3cb3269719)
+[download source code as .zip](https://nyu-robot-learning.github.io/robot-intel-class-fl23/assets/files/latex_template_source-0e7df31543ff046158d81b12f470b4f8.zip)
 Homework 1
 Theory Questions
-[download as .pdf]
+[download as .pdf](https://nyu-robot-learning.github.io/robot-intel-class-sp23/assets/files/hw1_theory-69e639924c3c002cadfb5676bb7a3fbe.pdf)
 Coding Questions
-[download as .ipynb]
+[download as .ipynb](https://nyu-robot-learning.github.io/robot-intel-class-fl23/assets/files/hw1_coding-f12a4782e2a8f894d5beeca369cfd0d1.ipynb)
 [open with Google Colab]
 Homework 2
-Theory Questions
-[download as .pdf]
-Coding Questions
-[download as .ipynb]
-[open with Google Colab]
+- To be announced soon
 Homework 3
-Theory Questions
-[download as .pdf]
-Coding Questions
-[download as .ipynb]
-[open with Google Colab]
+- To be announced soon
 Homework 4
-Theory Questions
-[download as .pdf]
-Coding Questions
-[download as .ipynb]
-[open with Google Colab]
+- To be announced soon
 Homework 5
-Theory Questions
-[download as .pdf]
-Coding Questions
-[download as .ipynb]
-[open with Google Colab]
+- To be announced soon
 Homework 6
-Theory Questions
-[download as .pdf]
-Coding Questions
-[download as .ipynb]
-[open with Google Colab]
-LaTeX Template
-Homework 1
-Theory Questions
-Coding Questions
-Homework 2
-Theory Questions
-Coding Questions
-Homework 3
-Theory Questions
-Coding Questions
-Homework 4
-Theory Questions
-Coding Questions
-Homework 5
-Theory Questions
-Coding Questions
-Homework 6
-Theory Questions
-Coding Questions
+- To be announced soon
