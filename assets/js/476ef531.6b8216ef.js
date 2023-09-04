@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrobot_intel_fl23=self.webpackChunkrobot_intel_fl23||[]).push([[421],{892:function(e){e.exports=JSON.parse('{"permalink":"/home/aadhithya/robot-intel-class-fl23/docusaurus/website/build/index.html/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
