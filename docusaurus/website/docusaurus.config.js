@@ -9,7 +9,7 @@ const config = {
   title: 'Introduction to Robot Intelligence',
   tagline: 'Fall 2023',
   url: 'https://nyu-robot-learning.github.io/',
-  baseUrl: '/home/aadhithya/robot-intel-class-fl23/docusaurus/website/build/index.html/',
+  baseUrl: 'robot-intel-class-fl23',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
