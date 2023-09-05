@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
-        <title>Robot Intelligence Blog</title>
+        <title>Introduction to Robot Intelligence Blog</title>
         <link>https://nyu-robot-learning.github.io/robot-intel-class-fl23/blog</link>
-        <description>Robot Intelligence Blog</description>
+        <description>Introduction to Robot Intelligence Blog</description>
         <lastBuildDate>Wed, 06 Jan 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
