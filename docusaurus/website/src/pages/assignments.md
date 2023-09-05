@@ -5,7 +5,7 @@ title: Assignments
 #### Homework 0 - Preliminaries for the class.
 
 LaTeX Template
-* [open in Overleaf](https://www.overleaf.com/project/64f772823442779706895f8f)
+* [open in Overleaf](https://www.overleaf.com/read/htqrwnmkshwb)
 * [download source code as .zip](https://www.overleaf.com/project/64f772823442779706895f8f/download/zip)
 
 #### Homework 1
