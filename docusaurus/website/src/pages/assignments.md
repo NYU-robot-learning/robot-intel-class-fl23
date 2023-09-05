@@ -14,7 +14,7 @@ Theory Questions
 * [download as .pdf](https://www.overleaf.com/read/xstgwgzkbjgw)
 
 Coding Questions
-* [download as .ipynb](https://nyu-robot-learning.github.io/robot-intel-class-fl23/assets/files/hw1_coding-f12a4782e2a8f894d5beeca369cfd0d1.ipynb)
+* [download as .ipynb](https://drive.google.com/file/d/1bFXjTGOj9I05a4ipaZ-kYtJl7US4-8VX/view?usp=sharing)
 * [open with Google Colab](https://colab.research.google.com/drive/1uDhvLfXpki161_W-4JZ5v_QphJpy5rQk)
 
 #### Homework 2 and more 
