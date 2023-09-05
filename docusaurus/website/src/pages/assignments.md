@@ -5,13 +5,13 @@ title: Assignments
 #### Homework 0 - Preliminaries for the class.
 
 LaTeX Template
-* [open in Overleaf](https://www.overleaf.com/project/63c188b88f14ca3cb3269719)
-* [download source code as .zip](https://nyu-robot-learning.github.io/robot-intel-class-fl23/assets/files/latex_template_source-0e7df31543ff046158d81b12f470b4f8.zip)
+* [open in Overleaf](https://www.overleaf.com/project/64f772823442779706895f8f)
+* [download source code as .zip](https://www.overleaf.com/project/64f772823442779706895f8f/download/zip)
 
 #### Homework 1
 
 Theory Questions
-* [download as .pdf](https://nyu-robot-learning.github.io/robot-intel-class-fl23/assets/files/hw1_theory-69e639924c3c002cadfb5676bb7a3fbe.pdf)
+* [download as .pdf](https://www.overleaf.com/download/project/64f76c522004d5c3151dd2da/build/18a669b6841-e91a246013167e09/output/output.pdf?compileGroup=priority&clsiserverid=clsi-pre-emp-c2d-d-f-6p6t&enable_pdf_caching=true&popupDownload=true)
 
 Coding Questions
 * [download as .ipynb](https://nyu-robot-learning.github.io/robot-intel-class-fl23/assets/files/hw1_coding-f12a4782e2a8f894d5beeca369cfd0d1.ipynb)
