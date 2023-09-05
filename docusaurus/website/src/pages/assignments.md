@@ -11,7 +11,7 @@ LaTeX Template
 #### Homework 1
 
 Theory Questions
-* [download as .pdf](https://www.overleaf.com/download/project/64f76c522004d5c3151dd2da/build/18a669b6841-e91a246013167e09/output/output.pdf?compileGroup=priority&clsiserverid=clsi-pre-emp-c2d-d-f-6p6t&enable_pdf_caching=true&popupDownload=true)
+* [download as .pdf](https://drive.google.com/file/d/1H5qod0zeTeFGDns4gxTouUEQHMvzp_b1/view?usp=sharing)
 
 Coding Questions
 * [download as .ipynb](https://drive.google.com/file/d/1bFXjTGOj9I05a4ipaZ-kYtJl7US4-8VX/view?usp=sharing)
