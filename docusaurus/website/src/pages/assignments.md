@@ -11,7 +11,7 @@ LaTeX Template
 #### Homework 1
 
 Theory Questions
-* [download as .pdf](https://www.overleaf.com/download/project/64f76c522004d5c3151dd2da/build/18a669b6841-e91a246013167e09/output/output.pdf?compileGroup=priority&clsiserverid=clsi-pre-emp-c2d-d-f-6p6t&enable_pdf_caching=true&popupDownload=true)
+* [download as .pdf](https://www.overleaf.com/read/xstgwgzkbjgw)
 
 Coding Questions
 * [download as .ipynb](https://nyu-robot-learning.github.io/robot-intel-class-fl23/assets/files/hw1_coding-f12a4782e2a8f894d5beeca369cfd0d1.ipynb)
