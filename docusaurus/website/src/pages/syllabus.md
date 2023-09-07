@@ -7,9 +7,9 @@ title: Syllabus
 |---|---|---|---|
 |  |  Part 1: Introduction to Robotics Control |  |  |
 | 9/5/2023 | Class 1: Introduction to the course <ul><li>What is a Robot?</li><li>The anatomy of a robot</li><li>Role of intelligence in robotics</li></ul> | HW 1 released | 1. [What is a Robot?](https://robots.ieee.org/learn/what-is-a-robot/) <br />2. [Anatomy of a Robot.](http://motion.cs.illinois.edu/RoboticSystems/AnatomyOfARobot.html) <br />3. [Isaac Asimov's Robot Series](https://www.penguinrandomhouse.com/series/RBS/the-robot-series) Other useful links:<br /> 1. [Learn Git](https://learngitbranching.js.org/?locale=en_US) <br /> 2. [Linux Terminal Game](http://web.mit.edu/mprat/Public/web/Terminus/Web/main.html) <br /> 3. [Learn Shell](https://www.learnshell.org/) <br /> 4. [Linux Journey](https://linuxjourney.com/) |
-| 9/07/2023 |  Class 2: Introduction to robot kinematics |  | Chapter 1 of [MLS textbook](http://www.cse.lehigh.edu/~trink/Courses/RoboticsII/reading/murray-li-sastry-94-complete.pdf) |
+| 9/07/2023 | Class 2:  Optimization 101 |  | [A quick intro to SGD and its variants](https://ruder.io/optimizing-gradient-descent/) | 
 | 09/12/2023 | Tutorial1: Mechatronics 101 |  | |
-| 09/14/2023 | Class 3:  Optimization 101 |  | [A quick intro to SGD and its variants](https://ruder.io/optimizing-gradient-descent/) |
+| 09/14/2023 | Class 3: Introduction to Robot Kinematics |  | Chapter 1 of [MLS textbook](http://www.cse.lehigh.edu/~trink/Courses/RoboticsII/reading/murray-li-sastry-94-complete.pdf) |
 | 09/19/2023 | Tutorial 2: Numpy and Scipy |  |  |
 | 09/21/2023 | Class 4: Rigid Body Transformations I | HW 1 due |  Chapter 2 of [MLS textbook](http://www.cse.lehigh.edu/~trink/Courses/RoboticsII/reading/murray-li-sastry-94-complete.pdf)|
 | 09/26/2023 | Class 5: Rigid Body Transformations II | HW 2 released | Chapter 2 of [MLS textbook](http://www.cse.lehigh.edu/~trink/Courses/RoboticsII/reading/murray-li-sastry-94-complete.pdf) |
