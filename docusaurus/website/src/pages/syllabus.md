@@ -10,7 +10,7 @@ title: Syllabus
 | 9/07/2023 | Class 2:  Optimization 101 |  | [A quick intro to SGD and its variants](https://ruder.io/optimizing-gradient-descent/) | 
 | 09/12/2023 | Tutorial1: Mechatronics 101 |  | |
 | 09/14/2023 | Class 3: Gradient Descent |  | [Reference](https://towardsdatascience.com/gradient-descent-algorithm-a-deep-dive-cf04e8115f21) |
-| 09/19/2023 | Tutorial 2: Numpy and Scipy |  |  |
+| 09/19/2023 | Tutorial 2: Mechatronics - II |  |  |
 | 09/21/2023 | Class 4: Rigid Body Transformations I | HW 1 due |  Chapter 2 of [MLS textbook](http://www.cse.lehigh.edu/~trink/Courses/RoboticsII/reading/murray-li-sastry-94-complete.pdf)|
 | 09/26/2023 | Class 5: Rigid Body Transformations II | HW 2 released | Chapter 2 of [MLS textbook](http://www.cse.lehigh.edu/~trink/Courses/RoboticsII/reading/murray-li-sastry-94-complete.pdf) |
 | 09/28/2023 | Class 6: Forward Kinematics |  |1. Chapter 3 of [MLS textbook](http://www.cse.lehigh.edu/~trink/Courses/RoboticsII/reading/murray-li-sastry-94-complete.pdf)<br /> 2. [Forward kinematics of a variety of robots.](https://www.sciencedirect.com/topics/engineering/forward-kinematics)<br/> 3. [CH3 of Forward Kinematics](https://users.cs.duke.edu/~brd/Teaching/Bio/asmb/current/Papers/chap3-forward-kinematics.pdf)|
