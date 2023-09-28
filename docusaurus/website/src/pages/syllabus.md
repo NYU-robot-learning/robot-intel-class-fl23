@@ -12,31 +12,31 @@ title: Syllabus
 | 09/14/2023 | Class 3: Gradient Descent |  | [Reference](https://towardsdatascience.com/gradient-descent-algorithm-a-deep-dive-cf04e8115f21) |
 | 09/19/2023 | Tutorial 2: Mechatronics - II |  |  |
 | 09/21/2023 | Class 4: Supervised Learning | HW 1 due |  Chapter 2 of [MLS textbook](http://www.cse.lehigh.edu/~trink/Courses/RoboticsII/reading/murray-li-sastry-94-complete.pdf)|
-| 09/26/2023 | Class 5: Rigid Body Transformations | HW 2 released | Chapter 2 of [MLS textbook](http://www.cse.lehigh.edu/~trink/Courses/RoboticsII/reading/murray-li-sastry-94-complete.pdf) |
-| 09/28/2023 | Class 6: Forward Kinematics |  |1. Chapter 3 of [MLS textbook](http://www.cse.lehigh.edu/~trink/Courses/RoboticsII/reading/murray-li-sastry-94-complete.pdf)<br /> 2. [Forward kinematics of a variety of robots.](https://www.sciencedirect.com/topics/engineering/forward-kinematics)<br/> 3. [CH3 of Forward Kinematics](https://users.cs.duke.edu/~brd/Teaching/Bio/asmb/current/Papers/chap3-forward-kinematics.pdf)|
-| 10/03/2023 | Tutorial3: Coding Transforms |  | |
-| 10/05/2023 | Class 7:  Inverse Kinematics  | HW 2 due | [A quick intro to SGD and its variants](https://ruder.io/optimizing-gradient-descent/) |
-| 10/12/2023 | Class 8: Robot Dynamics & Jacobian | HW 3 released| 1. Chapter 3 of [MLS textbook](http://www.cse.lehigh.edu/~trink/Courses/RoboticsII/reading/murray-li-sastry-94-complete.pdf)  <br /> 2. Section II of [Robotic Systems](https://motion.cs.illinois.edu/RoboticSystems/)|
-| 10/17/2023 | Tutorial4: Coding Jacobians  | ||
-| 10/19/2023 | Class 9: Introduction to Control |  | 1. Chapter 4 of [MLS textbook](http://www.cse.lehigh.edu/~trink/Courses/RoboticsII/reading/murray-li-sastry-94-complete.pdf)  <br /> 2. Section IV of [Robotic Systems](https://motion.cs.illinois.edu/RoboticSystems/) |
-| 10/24/2023 | Class 10:  Linear Quadratic Regulators |  | Video on [Micro Mouse](https://youtu.be/A4hzCcFikm0) |
-| 10/26/2023 | Class 11: Non-Linear Dynamics and LQR variants |HW 3 due  | Formulation of [LQR](https://www.cds.caltech.edu/~murray/courses/cds110/wi06/lqr.pdf)|
-| 10/31/2023 | Tutorial5: Coding LQRs  |HW 4 released||
+| 09/26/2023 | Class 5: Rigid Body Transformations I| HW 2 released | Chapter 2 of [MLS textbook](http://www.cse.lehigh.edu/~trink/Courses/RoboticsII/reading/murray-li-sastry-94-complete.pdf) |
+| 09/28/2023 | Class 6: Rigid Body Transformations II| | Chapter 2 of [MLS textbook](http://www.cse.lehigh.edu/~trink/Courses/RoboticsII/reading/murray-li-sastry-94-complete.pdf) |
+| 10/03/2023 | Class 7: Forward Kinematics |  |1. Chapter 3 of [MLS textbook](http://www.cse.lehigh.edu/~trink/Courses/RoboticsII/reading/murray-li-sastry-94-complete.pdf)<br /> 2. [Forward kinematics of a variety of robots.](https://www.sciencedirect.com/topics/engineering/forward-kinematics)<br/> 3. [CH3 of Forward Kinematics](https://users.cs.duke.edu/~brd/Teaching/Bio/asmb/current/Papers/chap3-forward-kinematics.pdf)|
+| 10/05/2023 | Class 8:  Inverse Kinematics  | HW 2 due | 1. Chapter 3 of [MLS textbook](http://www.cse.lehigh.edu/~trink/Courses/RoboticsII/reading/murray-li-sastry-94-complete.pdf)  <br /> 2. Chapter 6 of [Robotic Systems](https://motion.cs.illinois.edu/RoboticSystems/)| |
+| 10/12/2023 | Class 9: Robot Dynamics & Jacobian | HW 3 released| 1. Chapter 3 of [MLS textbook](http://www.cse.lehigh.edu/~trink/Courses/RoboticsII/reading/murray-li-sastry-94-complete.pdf)  <br /> 2. Section II of [Robotic Systems](https://motion.cs.illinois.edu/RoboticSystems/)|
+| 10/17/2023 | Tutorial3: Coding Transforms |  | |
+| 10/19/2023 | Tutorial4: Coding Jacobians  | ||
+| 10/24/2023 | General |
+| 10/26/2023 | Class 10: Introduction to Control | HW 3 due | 1. Chapter 4 of [MLS textbook](http://www.cse.lehigh.edu/~trink/Courses/RoboticsII/reading/murray-li-sastry-94-complete.pdf)  <br /> 2. Section IV of [Robotic Systems](https://motion.cs.illinois.edu/RoboticSystems/) |
+| 10/31/2023 | Class 11:  Linear Quadratic Regulators | HW 4 released | Video on [Micro Mouse](https://youtu.be/A4hzCcFikm0) | 
+|11/02/2023 |  Class 12: Non-Linear Dynamics and LQR variants |  | Formulation of [LQR](https://www.cds.caltech.edu/~murray/courses/cds110/wi06/lqr.pdf)|
+| 11/07/2023 | Tutorial5: Coding LQRs  |||
 | |  Part 2: Sensing and Fusion |  | |
-|11/02/2023 |  Class 12:  Robot Sensing |  | [Bayes rule wiki](https://en.wikipedia.org/wiki/Bayes%27_theorem)|
-| 11/07/2023 | Class 13:  Introduction to filtering: Kalman Filters, Extended Kalman Filters. | | [KF tutorial](https://www.kalmanfilter.net/default.aspx)|
-| 11/09/2023 | Tutorial6: Coding Bayes Rule. |
-| 11/14/2023 | Class 14: Simultaneous Localization and Mapping|HW 4 due| [Simultaneous Localization and Mapping.](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa09/readings/Durrant-Whyte_Bailey_SLAM-tutorial-I.pdf) |
+| 11/09/2023 | Class 13:  Robot Sensing |  | [Bayes rule wiki](https://en.wikipedia.org/wiki/Bayes%27_theorem)|
+| 11/14/2023 | Class 14:  Introduction to filtering: Kalman Filters, Extended Kalman Filters. |HW 4 due | [KF tutorial](https://www.kalmanfilter.net/default.aspx)|
+| 11/16/2023 | Tutorial6: Coding Bayes Rule.|HW 5 released| |
 | | Part 3: Planning |  | |
-| 11/16/2023 | Class 14: Planning and configuration spaces. | HW 5 released | Section III of [Robotic Systems](https://motion.cs.illinois.edu/RoboticSystems/)|
-| 11/21/2023 | Tutorial7: Project Guidance |  | |
-| 11/28/2023 | Class 15: Heuristic planning and Sample Based Planners |  | Section III of [Robotic Systems](https://motion.cs.illinois.edu/RoboticSystems/) |
-| 11/30/2023 | Class 16: Computer Vision for Robotics | HW 5 due |  Section III of [Robotic Systems](https://motion.cs.illinois.edu/RoboticSystems/)|
+| 11/21/2023 | Class 15: Simultaneous Localization and Mapping|| [Simultaneous Localization and Mapping.](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa09/readings/Durrant-Whyte_Bailey_SLAM-tutorial-I.pdf) |
+| 11/28/2023 | Class 16: Planning and configuration spaces. |  | Section III of [Robotic Systems](https://motion.cs.illinois.edu/RoboticSystems/)|
+| 11/30/2023 | Class 16: Heuristic planning and Sample Based Planners | HW 5 due | Section III of [Robotic Systems](https://motion.cs.illinois.edu/RoboticSystems/) |
+| 12/05/2023 | Class 17: Computer Vision for Robotics | HW 6 released |  Section III of [Robotic Systems](https://motion.cs.illinois.edu/RoboticSystems/)|
 | | Part 4: Advanced Topics |  | |
-| 12/05/2023 | Class 17: Model Predictive Control. | HW 6 released  |  Section III of [Robotic Systems](https://motion.cs.illinois.edu/RoboticSystems/)|
-| 12/07/2023 | Class 18: Imitation Learning |  | |
-| 12/12/2023 | Class 19: Reinforcement Learning I |  | |
-| 12/14/2023 | Class 20: Reinforcement Learning II. |HW 6 due  | |
+| 12/07/2023 | Class 18: Model Predictive Control. |   |  Section III of [Robotic Systems](https://motion.cs.illinois.edu/RoboticSystems/)|
+| 12/12/2023 | Class 19: Imitation Learning |  | |
+| 12/14/2023 | Class 20: Reinforcement Learning |HW 6 due  | |
 
 
 
