@@ -19,7 +19,7 @@ title: Syllabus
 | 10/12/2023 | Class 9: Robot Dynamics & Jacobian | HW 3 released| 1. Chapter 3 of [MLS textbook](http://www.cse.lehigh.edu/~trink/Courses/RoboticsII/reading/murray-li-sastry-94-complete.pdf)  <br /> 2. Section II of [Robotic Systems](https://motion.cs.illinois.edu/RoboticSystems/)|
 | 10/17/2023 | Tutorial3: Coding Transforms |  | |
 | 10/19/2023 | Tutorial4: Coding Jacobians  | ||
-| 10/24/2023 | General |
+| 10/24/2023 | Guest Lecture by [Raunaq Bhirangi](https://raunaqbhirangi.github.io/) |
 | 10/26/2023 | Class 10: Introduction to Control | HW 3 due | 1. Chapter 4 of [MLS textbook](http://www.cse.lehigh.edu/~trink/Courses/RoboticsII/reading/murray-li-sastry-94-complete.pdf)  <br /> 2. Section IV of [Robotic Systems](https://motion.cs.illinois.edu/RoboticSystems/) |
 | 10/31/2023 | Class 11:  Linear Quadratic Regulators | HW 4 released | Video on [Micro Mouse](https://youtu.be/A4hzCcFikm0) | 
 |11/02/2023 |  Class 12: Non-Linear Dynamics and LQR variants |  | Formulation of [LQR](https://www.cds.caltech.edu/~murray/courses/cds110/wi06/lqr.pdf)|
