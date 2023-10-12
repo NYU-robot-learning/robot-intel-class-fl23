@@ -23,5 +23,14 @@ Project Homework
 * [download as .pdf](https://drive.google.com/file/d/1mwtPD-Fg2thbJvSs49LGh-79SYOrweeD/view?usp=sharing)
 
 
-#### Homework 3 and more 
+#### Homework 3
+
+Theory Questions
+* [download as .pdf](https://drive.google.com/file/d/1PcVxX7Mes46wzbVkbtzwpBc9u7Sy4FSW/view?usp=sharing)
+
+Coding Questions
+* [download as .ipynb](https://colab.research.google.com/drive/1vxZ-r32JFj9Dzq7L_lsJWT7EvdEZkOSn?usp=sharing)
+* [open with Google Colab](https://colab.research.google.com/drive/1vxZ-r32JFj9Dzq7L_lsJWT7EvdEZkOSn?usp=sharing)
+
+#### Homework 4 and more 
 - Coming soon.
