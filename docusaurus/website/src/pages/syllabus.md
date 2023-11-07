@@ -23,9 +23,9 @@ title: Syllabus
 | 10/26/2023 | Class 10: Introduction to Control | HW 3 due | 1. Chapter 4 of [MLS textbook](http://www.cse.lehigh.edu/~trink/Courses/RoboticsII/reading/murray-li-sastry-94-complete.pdf)  <br /> 2. Section IV of [Robotic Systems](https://motion.cs.illinois.edu/RoboticSystems/) |
 | 10/31/2023 | Class 11:  Linear Quadratic Regulators | HW 4 released | Video on [Micro Mouse](https://youtu.be/A4hzCcFikm0) | 
 |11/02/2023 |  Class 12: Non-Linear Dynamics and LQR variants |  | Formulation of [LQR](https://www.cds.caltech.edu/~murray/courses/cds110/wi06/lqr.pdf)|
-| 11/07/2023 | Tutorial5: Coding LQRs  |||
 | |  Part 2: Sensing and Fusion |  | |
-| 11/09/2023 | Class 13:  Robot Sensing |  | [Bayes rule wiki](https://en.wikipedia.org/wiki/Bayes%27_theorem)|
+| 11/07/2023 | Class 13:  Robot Sensing |  | [Bayes rule wiki](https://en.wikipedia.org/wiki/Bayes%27_theorem) |||
+| 11/09/2023 | Tutorial5: Coding LQRs |
 | 11/14/2023 | Class 14:  Introduction to filtering: Kalman Filters, Extended Kalman Filters. |HW 4 due | [KF tutorial](https://www.kalmanfilter.net/default.aspx)|
 | 11/16/2023 | Tutorial6: Guest Lecture from [Viam](https://www.viam.com/) |HW 5 released| |
 | | Part 3: Planning |  | |
