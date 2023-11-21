@@ -36,5 +36,13 @@ Coding Questions
  Project Homework
  * [download as .pdf](https://drive.google.com/file/d/18tSVj6Z7CCGgAbXsuw_SkMFMTTcP6RSM/view?usp=sharing)
 
-#### Homework 5 and more
-Coming soon
+#### Homework 5
+
+Theory Questions
+* [download as .pdf](https://drive.google.com/file/d/1zHwc5VFiaRSihwXur8oJOpEbrLsLV2-E/view?usp=sharing)
+
+Coding Questions
+* [open with Google Colab](https://colab.research.google.com/drive/11M7Ngo-Ep_rvCuPiVE35wkTcqahoCSit?usp=sharing)
+
+#### Homework 6  
+ Coming Soon
