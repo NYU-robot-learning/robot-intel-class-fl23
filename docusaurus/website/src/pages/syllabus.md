@@ -27,16 +27,16 @@ title: Syllabus
 | 11/07/2023 | Class 13:  Robot Sensing |  | [Bayes rule wiki](https://en.wikipedia.org/wiki/Bayes%27_theorem) |||
 | 11/09/2023 | Tutorial5: Coding LQRs |
 | 11/14/2023 | Class 14:  Introduction to filtering: Kalman Filters, Extended Kalman Filters. |HW 4 due | [KF tutorial](https://www.kalmanfilter.net/default.aspx)|
-| 11/16/2023 | Tutorial6: Guest Lecture from [Viam](https://www.viam.com/) |HW 5 released| |
+| 11/16/2023 | Tutorial6: Guest Lecture from [Viam](https://www.viam.com/) || |
 | | Part 3: Planning |  | |
-| 11/21/2023 | Class 15: Simultaneous Localization and Mapping|| [Simultaneous Localization and Mapping.](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa09/readings/Durrant-Whyte_Bailey_SLAM-tutorial-I.pdf) |
+| 11/21/2023 | Class 15: Simultaneous Localization and Mapping|| [Simultaneous Localization and Mapping.](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa09/readings/Durrant-Whyte_Bailey_SLAM-tutorial-I.pdf)| HW 5 and HW 6 released | |
 | 11/28/2023 | Class 16: Planning and configuration spaces. |  ||
-| 11/30/2023 | Class 16: Heuristic planning and Sample Based Planners | HW 5 due |  |
+| 11/30/2023 | Class 16: Heuristic planning and Sample Based Planners | |  |
 | | Part 4: Advanced Topics |  | |
-| 12/05/2023 | Class 17: Computer Vision for Robotics | HW 6 released |  |
+| 12/05/2023 | Class 17: Computer Vision for Robotics | HW 5 due |  |
 | 12/07/2023 | Class 18: Model Predictive Control. |   |  |
 | 12/12/2023 | Class 19: Imitation Learning |  | |
-| 12/14/2023 | Class 20: Reinforcement Learning |HW 6 due  | |
+| 12/14/2023 | Class 20: Reinforcement Learning |HW 6 due | |
 
 
 
