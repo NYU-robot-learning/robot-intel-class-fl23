@@ -18,7 +18,7 @@ title: Logistics
 * Instructor: [Lerrel Pinto](https://www.lerrelpinto.com/)
   * Office Hours:  Tue 5:00-6:00pm, @ 60 Fifth Ave, 505
 
-* Teaching Assistants: [Aadhithya Iyer](https://aadhithya14.github.io/) & Venkatesh Pattabiraman
+* Teaching Assistants: [Aadhithya Iyer](https://aadhithya14.github.io/) & [Venkatesh Pattabiraman](https://notvenky.github.io/)
   * Office Hours: Friday 2:00-3:00pm, @ 60 Fifth Ave, 540
 
 
