@@ -29,8 +29,8 @@ title: Syllabus
 | 11/14/2023 | Class 14:  Introduction to filtering: Kalman Filters, Extended Kalman Filters. |HW 4 due | [KF tutorial](https://www.kalmanfilter.net/default.aspx)|
 | 11/16/2023 | Tutorial6: Guest Lecture from [Viam](https://www.viam.com/) || |
 | | Part 3: Planning |  | |
-| 11/21/2023 | Class 15: Simultaneous Localization and Mapping| HW 5 and HW 6 released | [Simultaneous Localization and Mapping.](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa09/readings/Durrant-Whyte_Bailey_SLAM-tutorial-I.pdf) |
-| 11/28/2023 | Class 16: Planning and configuration spaces. |  ||
+| 11/21/2023 | Class 15: Simultaneous Localization and Mapping| HW 5 released | [Simultaneous Localization and Mapping.](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa09/readings/Durrant-Whyte_Bailey_SLAM-tutorial-I.pdf) |
+| 11/28/2023 | Class 16: Planning and configuration spaces. | HW 6 released ||
 | 11/30/2023 | Class 16: Heuristic planning and Sample Based Planners | |  |
 | | Part 4: Advanced Topics |  | |
 | 12/05/2023 | Class 17: Computer Vision for Robotics | HW 5 due |  |
