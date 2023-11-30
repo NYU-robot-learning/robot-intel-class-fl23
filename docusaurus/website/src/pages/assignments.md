@@ -46,4 +46,4 @@ Coding Questions
 
 #### Homework 6  
  Project Homework
- * [download ad .pdf]([)](https://drive.google.com/file/d/1Q2syuvrbOdQAtJxsQ9UlTDSuUnINHV6O/view?usp=sharing)
+ * [download as .pdf](https://drive.google.com/file/d/1Q2syuvrbOdQAtJxsQ9UlTDSuUnINHV6O/view?usp=sharing)
