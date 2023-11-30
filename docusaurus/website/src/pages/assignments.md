@@ -45,4 +45,5 @@ Coding Questions
 * [open with Google Colab](https://colab.research.google.com/drive/11M7Ngo-Ep_rvCuPiVE35wkTcqahoCSit?usp=sharing)
 
 #### Homework 6  
- Coming Soon
+ Project Homework
+ * [download ad .pdf]([)](https://drive.google.com/file/d/1Q2syuvrbOdQAtJxsQ9UlTDSuUnINHV6O/view?usp=sharing)
